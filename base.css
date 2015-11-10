@@ -26,15 +26,31 @@ h6 {
 	margin: 15px;
 }
 
+p {
+  margin: 5px 15px; 
+}
+
+span {
+
+}
+
+li {
+  margin: 5px 0;
+}
+
+ul {
+  margin: 5px 0;
+}
+
 /* Header */
 
 header {
-	padding: 5px 15px;
+  padding: 5px 15px;
 	margin: 0 0 15px 0;
 	width: 100%;
 	background: #ECFFDC;
-  	border-color: #ECFFDC;
-  	border-bottom: 5px solid #8EB270;
+  border-color: #ECFFDC;
+  border-bottom: 5px solid #8EB270;
 }
 
 /* Footer */
@@ -42,7 +58,7 @@ header {
 footer {
   font-size: 15px;
   text-align: center;
-  padding: 20px 0 0 0;
+  padding: 20px;
   color: #ccc;
 }
 
